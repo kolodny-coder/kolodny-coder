@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**kolodny-coder/kolodny-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dan! 👋
 
-Here are some ideas to get you started:
+Software engineer at activeFence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 A little more about me 
+
+```javascript
+const dan = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, Python],
+  tools: [Node, Flask, Django, Jest, Docker, AWS],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        member: "Telepat North",
+                        alsoMember: "CodingCoach "
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on node and typescript"
+},
+goalsFor2022: "Contribute more to open source projects."
+```
+
+
+
+## contact
+I love connecting with different people, so if you want to say hi, I'll be happy to meet you more! :)
+
+fell free to contact kolodnydank@gmail.com
