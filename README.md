@@ -1,7 +1,7 @@
 
 # Hi, I'm Dan! 👋
 
-Software engineer at activeFence
+Solution Architect at AWS (previously Software Engineer at activeFence)
 
 
 ## 🚀 A little more about me 
@@ -14,11 +14,14 @@ const dan = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         member: "Telepat North",
-                        alsoMember: "CodingCoach "
+                        alsoMember: "CodingCoach"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on node and typescript"
-},
-goalsFor2022: "Contribute more to open source projects."
+  challenge: "I am doing the #100DaysOfCode challenge focused on node and typescript",
+  transition: "Successfully transitioned to a Solution Architect role at AWS",
+  goalsFor2023: "Contribute more to open source projects and achive 3 AWS certifications"
+}
+
+
 ```
 
 
